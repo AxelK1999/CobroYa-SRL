@@ -22,7 +22,7 @@ A fines practicos se acordo que un deudor no puede estar en mas de una cartera d
 
 ##### Modelo entidad relacion de negocio :
 
-![Alt text](image.png)
+![Alt text](MER.png)
 
 ## Caracterisitcas 
 
