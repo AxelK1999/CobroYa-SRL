@@ -4,7 +4,7 @@
 
 Proyecto de trabajo final de materia de base de datos. Consistio en la consulta e investigacion sobre el caso para determinar los requerimientos que debe solventar la base de datos y entendimiento del modelo de negocio, teniendo en cuanta el control sobre las operaciones realizadas por los usuarios sobre la base de datos. Y la realizacion de diferentes consultas solicitadas para la realizacion de diferentes informes.
 
-**Ecenario :**
+**Escenario :**
 
 CobroYa cuenta con varios clientes, empresas que eligen a CobroYa para que cobren las deudas generadas por sus propios cientes, a los cuales no les pueden cobrar ells mismo.
 
@@ -24,7 +24,7 @@ A fines practicos se acordo que un deudor no puede estar en mas de una cartera d
 
 ![Alt text](MER.png)
 
-## Caracterisitcas 
+## Caracteristicas 
 
 - Creacion de tablas y operaciones CRUD sobre las mismas
 - Uso de triggers y tabla de logs para el control y respaldo de operaciones realizadas por empleados.
