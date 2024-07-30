@@ -18,11 +18,10 @@ El objetivo del empleado es que el cliente haga un Convenio, en el cual figure: 
 
 El convenio, contará con tantas cuotas como figure en el plan de pago elegido, las cuotas deberán tener la siguiente información: número de cuota, vencimiento de la misma, importe de la cuota, algo que determine si la cuota está pagada o no y una fecha de pago.
 
-A fines prácticos se acordó que un deudor no puede estar en más de una cartera de clientes en diferentes empresas.
-
 ##### Modelo entidad relacion de negocio :
 
-![Alt text](MER.png)
+![image](https://github.com/user-attachments/assets/b5a6d7d3-cb3f-4089-864c-524245266293)
+
 
 ## Características 
 
@@ -31,6 +30,7 @@ A fines prácticos se acordó que un deudor no puede estar en más de una carter
 - Creación de diferentes roles y privilegios para brindar una capa seguridad.
 - Construcción de consultas complejas compuestas por diferentes relaciones entre tablas, filtros y funciones SQL.
 - Creación de Funciones, Procedimientos y Vistas
+- Reportes
 
 ## Tecnologías Utilizadas
 - **Base de datos: PostgreSQL** 
