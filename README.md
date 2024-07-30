@@ -2,7 +2,7 @@
 
 **Descripción:**
 
-Proyecto de trabajo final de materia de base de datos. Consistió en la consulta e investigación sobre el caso para determinar los requerimientos que debe solventar la base de datos y entendimiento del modelo de negocio, teniendo en cuanta el control sobre las operaciones realizadas por los usuarios sobre la base de datos. Y la realización de diferentes consultas solicitadas para la realización de diferentes informes.
+Proyecto de trabajo final de materia de base de datos(año 2020). Consistió en la consulta e investigación sobre el caso para determinar los requerimientos que debe solventar la base de datos y entendimiento del modelo de negocio, teniendo en cuanta el control sobre las operaciones realizadas por los usuarios sobre la base de datos. Y la realización de diferentes consultas solicitadas para la realización de diferentes informes.
 
 **Escenario:**
 
