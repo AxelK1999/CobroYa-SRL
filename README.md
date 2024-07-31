@@ -36,7 +36,7 @@ El convenio, contará con tantas cuotas como figure en el plan de pago elegido, 
   - Deuda total por empresa
   - Lista de convenios que han sido cancelados
   - Forma de pago más elegida
-  - Otros
+  - Otros(Al final de archivo `CobroYaSQL.sql`)
 
 ## Tecnologías Utilizadas
 - **Base de datos: PostgreSQL** 
