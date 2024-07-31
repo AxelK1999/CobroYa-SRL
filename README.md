@@ -30,7 +30,13 @@ El convenio, contará con tantas cuotas como figure en el plan de pago elegido, 
 - Creación de diferentes roles y privilegios para brindar una capa seguridad.
 - Construcción de consultas complejas compuestas por diferentes relaciones entre tablas, filtros y funciones SQL.
 - Creación de Funciones, Procedimientos y Vistas
-- Reportes
+- Reportes:
+  - Informe por mes a cada empresa la cantidad de cuotas cobradas a su favor, importe total cobrado, importe total a rendir
+  - Empleado que logro firmar mayor cantidad de convenios
+  - Deuda total por empresa
+  - Lista de convenios que han sido cancelados
+  - Forma de pago más elegida
+  - Otros
 
 ## Tecnologías Utilizadas
 - **Base de datos: PostgreSQL** 
