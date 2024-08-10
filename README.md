@@ -25,7 +25,7 @@ El convenio, contará con tantas cuotas como figure en el plan de pago elegido, 
 
 ## Características 
 
-- Creación de tablas y operaciones CRUD sobre las mismas
+- Normalizacion, creación de tablas y operaciones CRUD sobre las mismas
 - Uso de triggers y tabla de logs para el control y respaldo de operaciones realizadas por empleados.
 - Creación de diferentes roles y privilegios para brindar una capa seguridad.
 - Construcción de consultas complejas compuestas por diferentes relaciones entre tablas, filtros y funciones SQL.
